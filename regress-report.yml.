@@ -1,11 +1,12 @@
-- summary: |
-    Наличие в главном меню кнопок в верхнем правом углу: доставка
-  status: fail
+---
+test-cases:
+  - summary: |
+      Наличие в главном меню кнопок в верхнем правом углу: доставка
+    status: fail
   
-- summary: |
-    Наличие на главной странице кнопки: Logg In
-  status: pass
-
+  - summary: |
+      Наличие на главной странице кнопки: Logg In
+    status: pass
 
 bugreports:
   - summary: |
