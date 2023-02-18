@@ -9,7 +9,6 @@ test-cases:
       Наличие на главной странице кнопки: Logg In
     status: pass
 
-test-cases:
   - summary: |
       Проверка фильтра товаров со скидкой
     status: fail
